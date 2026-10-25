@@ -2,7 +2,9 @@
 
 A roguelike played on a real five-reel online slot. The machine is fixed and certified at 96% RTP, so you lose money in the long run, like at any casino. The run is where you grow: charms change what every win does in combat.
 
-Open `index.html` in a browser, or enable GitHub Pages for this repository and play it on your phone. It is a single file with no dependencies besides Google Fonts. All pixel art is hand-drawn in code (`SPR`).
+**Play it:** https://ojojboll-ui.github.io/slot-dungeon/ (works on your phone). Or open `index.html` in a browser.
+
+GitHub Pages publishes from the `gh-pages` branch, so push updates to both `main` and `gh-pages`. It is a single file with no dependencies besides Google Fonts. All pixel art is hand-drawn in code (`SPR`).
 
 ## The machine
 
